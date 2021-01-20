@@ -10,7 +10,7 @@ public class xyz extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_xyz);
-        String a = "abc";
+        String a = "abcd";
         String b = "xyz";
     }
 }
