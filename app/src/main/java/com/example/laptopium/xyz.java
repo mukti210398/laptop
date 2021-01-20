@@ -11,5 +11,6 @@ public class xyz extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_xyz);
         String a = "abc";
+        String b = "xyz";
     }
 }
